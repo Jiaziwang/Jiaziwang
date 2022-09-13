@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Jiaziwang/Jiaziwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-👋 Jiazi Wang's GitHub Profile 👋
 
 🔭 I’m currently working on Data Science/ Data Analysis
 🌱 I’m currently learning Data Visualization
@@ -15,5 +11,4 @@
 cn Chinese: Native
 u🇸 English: B2-C1
 🇩🇪 German: B2
-
 ⚡ Interest: Traveling, movie,yoga
