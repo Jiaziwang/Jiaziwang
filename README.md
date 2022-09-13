@@ -8,7 +8,7 @@
 - 💬 Ask me about Anything you want
 - 📫 How to reach me: wang.jiazi1994@gmail.com
 - 🌎 My Languages 🌎
-cn Chinese: Native
-u🇸 English: B2-C1
-🇩🇪 German: B2
+- cn Chinese: Native
+- 🇺🇸 English: B2-C1
+- 🇩🇪 German: B2
 - ⚡ Interests: Traveling, movie,yoga
