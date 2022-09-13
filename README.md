@@ -3,8 +3,6 @@
 <!--
 **Jiaziwang/Jiaziwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 👋 Jiazi Wang's GitHub Profile 👋
 
 - 🔭 I’m currently working on Data Science/ Data Analysis
