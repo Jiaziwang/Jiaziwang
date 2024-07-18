@@ -10,5 +10,5 @@
 - 🌎 My Languages 🌎
 - cn Chinese: Native
 - 🇺🇸 English: B2-C1
-- 🇩🇪cn German: B2
+- 🇩🇪 German: B2
 - ⚡ Interests: Traveling, movie,yoga
